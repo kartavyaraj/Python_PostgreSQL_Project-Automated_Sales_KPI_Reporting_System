@@ -1,6 +1,6 @@
 # Automated Sales KPI Reporting System
 
-_A fully automated system that extracts sales data from PostgreSQL Database, calculates key business KPIs, generates visual reports, and delivers them via email saving manual effort and enabling faster business insights. Built using Python (Pandas, Matplotlib, Seaborn, Sqlalchemy and more liabraries) & PostgreSQL for scalable analytics automation._
+_A fully automated system that extracts sales data from PostgreSQL Database, calculates key business KPIs, generates visual reports, and delivers them via email saving manual effort and enabling faster business insights. Built using Python (Pandas, Matplotlib, Seaborn, SQLAlchemy .,etc) & PostgreSQL for scalable analytics automation._
 
 
 ## Table of Contents  
