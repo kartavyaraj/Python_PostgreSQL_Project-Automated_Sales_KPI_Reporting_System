@@ -275,8 +275,7 @@ This project highlights my ability to transform raw sales data into structured, 
 
 ***Kartavya Raj*** – Aspiring Data Analyst
 
-Passionate about data analysis, visualization, and business insights. Skilled in Excel, SQL, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) and Data visualization.
-
+Passionate about data analysis, visualization, modeling and business insights. Skilled in Excel, SQL, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
 
 ## Contact
 
