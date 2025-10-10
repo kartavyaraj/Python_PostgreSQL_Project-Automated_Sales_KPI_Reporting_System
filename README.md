@@ -110,11 +110,11 @@ This project follows a modular and automated workflow divided into six Python sc
     Purpose: Orchestrate the entire automation pipeline.
     Process:
     - Sequentially executes all previous functions:
-        1. Connect to database and validate data
-        2. Generate KPIs 
-        3. Create visualizations
-        4. Compile PDF report
-        5. Send email with attachment
+        - Connect to database and validate data
+        - Generate KPIs 
+        - Create visualizations
+        - Compile PDF report
+        - Send email with attachment
     - After successful execution, an email with the complete Sales KPI Report will be sent to the Reciever's Email ID — fully automated from start to finish.
 
 **You can view an example of the PDF report in the _report/_ folder.**
