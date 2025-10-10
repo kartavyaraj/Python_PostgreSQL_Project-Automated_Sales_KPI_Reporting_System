@@ -117,7 +117,7 @@ This project follows a modular and automated workflow divided into six Python sc
         - Send email with attachment
     - After successful execution, an email with the complete Sales KPI Report will be sent to the Reciever's Email ID — fully automated from start to finish.
 
-**You can view an example of the PDF report in the _report/_ folder.**
+Note: You can view an example of the PDF report in the _report/_ folder.
 
 #### Core Implementation Snippets
 
