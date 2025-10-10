@@ -1,15 +1,2 @@
-# Python cache files
 __pycache__/
 *.pyc
-
-# Virtual environment
-venv/
-.env
-
-# IDE/editor specific files
-*.vscode/
-*.idea/
-*.DS_Store
-
-# OS generated files
-Thumbs.db
